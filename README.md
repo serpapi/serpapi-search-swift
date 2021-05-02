@@ -1,13 +1,18 @@
 # serpapi-search-swift
 
-This swift 5 package enables SerpApi integration with ios, macOS ...
+This swift 5 package is meant to scrape and parse search resutls from Google, Bing, Baidu, Yandex, Yahoo, Home depot, Ebay and more.. using [SerpApi](https://serpapi.com). 
+The package allows seamless integration of [SerpApi](https://serpapi.com) in ios, macOS ...
 
 ### Requirements
   - Swift 5
-  - MacOS 
+  - MacOS / IO
   - Cocapod for dependency management
 
 Test platform macOS big sur only.
+
+### Status
+
+Early development phase as of May 2021.
 
 ### Developer note
 Swift 5 JSON parse is limited to static object.
