@@ -16,7 +16,7 @@ Pod::Spec.new do |spec|
   #
 
   spec.name         = "serpapi-search-swift"
-  spec.version      = "0.0.1"
+  spec.version      = "1.0.0"
   spec.summary      = "Scrape and parse search resuts from Google, Bing, Baidu, Yandex, Yahoo, Home depot, Ebay and more.. using [SerpApi](https://serpapi.com). "
 
   # This description is used to generate tags and improve search results.
@@ -82,7 +82,7 @@ The package allows seamless integration of [SerpApi](https://serpapi.com) in ios
   #
 
   spec.source       = { 
-    :git => "http://github.com/serpapi/serpapi-search-swift.git", 
+    :git => "https://github.com/serpapi/serpapi-search-swift.git", 
     :tag => "#{spec.version}" 
   }
 
