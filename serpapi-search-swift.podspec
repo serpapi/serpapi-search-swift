@@ -16,7 +16,7 @@ Pod::Spec.new do |spec|
   #
 
   spec.name         = "serpapi-search-swift"
-  spec.version      = "1.0.0"
+  spec.version      = "0.0.1"
   spec.summary      = "Scrape and parse search resuts from Google, Bing, Baidu, Yandex, Yahoo, Home depot, Ebay and more.. using [SerpApi](https://serpapi.com). "
 
   # This description is used to generate tags and improve search results.
